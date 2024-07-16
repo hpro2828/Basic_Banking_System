@@ -4,7 +4,6 @@
 
 ## Website Preview
 ### Home Page
-<img src="main.png" width="800">
 
 ### Customer List
 <img src="customer_list.png" width="800">
